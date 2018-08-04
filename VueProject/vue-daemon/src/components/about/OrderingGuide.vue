@@ -1,5 +1,5 @@
 <template>
   <div>
-    Contact
+    OroderingGuide
   </div>
 </template>

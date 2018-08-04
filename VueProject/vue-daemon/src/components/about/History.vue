@@ -1,5 +1,5 @@
 <template>
   <div>
-    Contact
+    History
   </div>
 </template>
