@@ -16,8 +16,8 @@
         <li><router-link to="/about" class="nav-link">关于我们</router-link></li>
       </ul>
       <ul class="navbar-nav ml-auto">
-        <li><a href="#" class="nav-link">登陆</a></li>
-        <li><a href="#" class="nav-link">注册</a></li>
+        <li><a href="/login" class="nav-link">登陆</a></li>
+        <li><a href="/regist" class="nav-link">注册</a></li>
       </ul>
     </nav>
   </header>
